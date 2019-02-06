@@ -12,7 +12,7 @@
 \section{Project Description}
 % \subsection{Project Description}
 
-File synchronization has grown increasingly important as enterprises use the cloud as a means for collaboration. It is also commonly used for backup and for mobile access to files. In this project, our team is collaborating to develop file synchronization software.
+File synchronization has grown increasingly important as enterprises use the cloud as a means for collaboration. It is also commonly used for backup and for mobile access to files. In this project, our team is collaborating to develop file synchronization software. We have chosen to name our software Meerkats, because the meerkats are one of the most collaborative animals in the world, and one of the main feature for our software is collaboration.
 
 \subsection{Project Goals}
 The goals of the project are divided into two categories, technical goals and management goals.
@@ -21,8 +21,9 @@ The goals of the project are divided into two categories, technical goals and ma
 
 \begin{enumerate}
   \item \textbf{Develop File Synchronisation Software} File synchronization software is used to store copies of files to another device or to the cloud. The files are typically available to be accessed via a Web-based portal. Some examples of file sync software include Box and Dropbox.
-  \item \textbf{Build a ‘hub and spoke‘ file synchroniser} File synchroniser will allow communication between a single central server (the ‘hub’) to which multiple other clients (the ‘spokes’) synchronise.
-  \item \textbf{Develop a web server and two clients (desktop, mobile)} A web server will be developed and it will exchange data with mobile client (Android) and desktop client (Windows)
+  \item \textbf{Develop two clients (desktop, mobile)} The desktop will be built for the windows OS, and the mobile application will be using the android operating system. Clients manipulate files within a diretory according to the commands from server.
+  \item \textbf{Build a server} Central server receives requests from clients and responds with commands to clients which indicates different local manipulation.
+
 \end{enumerate}
 
 \subsection{Management Goals}
@@ -42,9 +43,9 @@ By completing this project, the following deliverables are achieved.
 
 \begin{enumerate}
 
-  \item \textbf{File Storage Server}
-  \item \textbf{Mobile Client} It is Android solution. Users can use the solution on the go and will enjoy features such as Sign Up, Log In,  View Files, Upload Files, Rename Files, Delete Files,etc.
-  \item \textbf{Desktop GUI Client} The desktop GUI client is based on Windows and it includes features such as  Up, Log In,  View Files, Upload Files, Rename Files, Delete Files,etc.
+  \item \textbf{File Storage Server} This component is used to store files and deal with requests received from users.
+  \item \textbf{Mobile Client} It is an Android solution. Users can use the app on the go and will enjoy features such as Sign Up, Log In, View Files, Upload Files, Rename Files, Delete Files, etc.
+  \item \textbf{Desktop GUI Client} The desktop GUI client is based on the Windows OS and it includes the same features as the mobile client.
   \item \textbf{Meerkats File Synchronizer Report} This report provides detailed information about the project in terms of team members, project plan, deliverables, timeline, technologies used, challenges and much more. It acts as a central reference for users who are interested in the software.
   \item \textbf{Meerkats File Synchronizer Presentation} The team will put together slides to present the work done. The team will demonstrate the solution and its layout, features and will walk the audience through the functionalities supplied by the software.
 
@@ -97,12 +98,12 @@ This project requires each member to play different roles and carry different re
 \textbf{Responsibility:}
 
 \begin{itemize}
-  \item \textbf{Boyang Zhang:} Server-side Development /Integration Test
-  \item \textbf{Xi He:} Android Client-side Develop / Integration Test
-  \item \textbf{YiFeng Zheng:} Android Client-side Development / Integration Test
-  \item \textbf{Yenan Huang:} Desktop Client-side Development / Integration Test
-  \item \textbf{Frida Solheim:} Initial Report / Desktop development /Final Report
-  \item \textbf{Samah Alghamdi:} Initial Report / Android development/ Final Report
+  \item \textbf{Boyang Zhang:} Server-side Development /Integration Test / Unit Test
+  \item \textbf{Xi He:} Android Client-side Develop / Integration Test / Unit Test
+  \item \textbf{YiFeng Zheng:} Android Client-side Development / Unit Test
+  \item \textbf{Yenan Huang:} Desktop Client-side Development / Unit Test
+  \item \textbf{Frida Solheim:} Initial Report and presentation / Desktop development / Final Report / Unit Test
+  \item \textbf{Samah Alghamdi:} Initial Report and presentation / Android development / Final Report / Unit Test
 \end{itemize}
 
 \subsection{Collaboration Tools} The team will be using Google Docs to share links and important updates, GIT to store project documentations and slack to instantly communicate information regarding the project.
