@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.20)  4 FEB 2019 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.3.20)  7 FEB 2019 16:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -53,7 +53,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 9.
  [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -66,11 +66,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--60
 
 Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []|\OT1/cmr/bx/n/10 End
- []
-
-
-Overfull \hbox (3.39566pt too wide) in paragraph at lines 60--61
-[]|\OT1/cmr/bx/n/10 Status| 
  []
 
 
@@ -228,7 +223,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--76
 \OT1/cmr/m/n/10 29,
  []
 
-[2] [3]
+[3]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 101.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -246,13 +241,13 @@ Missing character: There is no ™ in font cmr10!
 Here is how much of TeX's memory you used:
  297 strings out of 493014
  3439 string characters out of 6133351
- 66601 words of memory out of 5000000
+ 63601 words of memory out of 5000000
  3908 multiletter control sequences out of 15000+600000
  7895 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,9n,19p,470b,188s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,9n,19p,473b,188s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on GroupProject.pdf (5 pages, 93582 bytes).
+Output written on GroupProject.pdf (5 pages, 93991 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
